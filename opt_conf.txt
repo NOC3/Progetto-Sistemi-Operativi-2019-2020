@@ -1,4 +1,4 @@
-file contenente le varie configurazioni, usato per appuntarle comodità
+file contenente le varie configurazioni, usato per appuntarle per comodità
 
 easy
 SO_NUM_G = 2
