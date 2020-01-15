@@ -4,6 +4,7 @@ Federico Serra, matricola 898925
 Alessandro Nocera, matricola 886732
 
 RELAZIONE PROGETTO SISTEMI OPERATIVI 2019-2020
+
 Compilazione: make
 Esecuzione(inclusa compilazione): make run
 
